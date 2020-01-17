@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+    <name>Tran Ngoc Hoi</name>
+    <age>21</age>
+    <address>
+        <city>Ha Noi</city>
+        <district>Thach That</district>
+    </address>
+    <phone>0272721992</phone>
+</Student>
